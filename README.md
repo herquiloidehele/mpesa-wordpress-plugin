@@ -20,11 +20,11 @@ The plugin adds an option on the checkout section for paying through M-PESA(A mo
  ## Configuration
  1. Afeter successfull installed and activate the plugin, go to Woocommerce > Setting > Payments tab, its supposed to appear the M-pesa payment method listed. Activate it and them click on "Manage".
  
-![Image 1](https://raw.githubusercontent.com/herquiloidehele/mpesa-woocommerce-plugin/master/image1.png)
+![Image 1](https://raw.githubusercontent.com/herquiloidehele/mpesa-wordpress-plugin/master/img/image1.png)
  
   Inside the M-pesa Management page you will need to fill the information and configuration fields:  
   
-  ![Image 2](https://github.com/herquiloidehele/mpesa-woocommerce-plugin/blob/master/image2.png?raw=true)
+  ![Image 2](https://github.com/herquiloidehele/mpesa-wordpress-plugin/blob/master/img/image2.png?raw=true)
 
 
 #### Note: All this configuration Fields can be found in [M-pesa Developer Portal](https://developer.mpesa.vm.co.mz)
