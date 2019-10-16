@@ -81,7 +81,7 @@ function woompesa_payment_gateway_init() {
 
 			$this->id                 = 'mpesa';
 
-			$this->icon               = plugin_dir_url(__FILE__) . 'logo.jpg';
+			$this->icon               = plugin_dir_url(__FILE__) . 'img/logo.jpg';
 
 			$this->has_fields         = false;
 
