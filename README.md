@@ -6,7 +6,7 @@ The plugin adds an option on the checkout section for paying through M-PESA(A mo
 ## Pre-requirements
   1. Create an account on [M-pesa Developer Portal](https://developer.mpesa.vm.co.mz/);
   2. Read a little bit the oficial documentation, just in case;
-  3. [Clone](https://github.com/herquiloidehele/mpesa-woocommerce-plugin.git) or [Download](https://github.com/herquiloidehele/mpesa-woocommerce-plugin/archive/master.zip) the zipped plugin 
+  3. [Clone](https://github.com/herquiloidehele/mpesa-wordpress-plugin) or [Download](https://github.com/herquiloidehele/mpesa-woocommerce-plugin/archive/master.zip) the zipped plugin 
   
 ## Installation
  1. Go to Plugins -> Add New
