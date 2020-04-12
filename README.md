@@ -30,9 +30,18 @@ The plugin adds an option on the checkout section for paying through M-PESA(A mo
 #### Note: All this configuration Fields can be found in [M-pesa Developer Portal](https://developer.mpesa.vm.co.mz)
 
 
+## Aspects to consider when deploying your application
+  1. Make sure that the port 18352 is opened in your server. 
+    1.1 If not, you must open it, because this is the port used to comunicate between this plugin and Mpesa API. 
+    1.2 In case you are using a shared hosting service to host your application, you will have to contact the support and ask them to open this port.
+
+
 ## License
 This library is release under the [MIT](https://github.com/herquiloidehele/mpesa-woocommerce-plugin/blob/master/LICENSE) License. See [LICENSE file for details](https://github.com/herquiloidehele/mpesa-woocommerce-plugin/blob/master/LICENSE).
 
 ## TODO
 * Improve documentation
 * Add examples and Tests
+
+
+# <center> Enjoy </center>
