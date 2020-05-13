@@ -1,7 +1,7 @@
 # Woocommerce M-pesa Payment Gateway (Vodacom) 
-This plugin enables the customer to have an option of paying using M-PESA mobile money service from a WordPress website/application that has WooCommerce plugin installed.
+This plugin allows your e-commerce to have an option of paying using M-PESA mobile money service from a WordPress website/application that has WooCommerce plugin installed.
 
-The plugin adds an option on the checkout section for paying through M-PESA(A mobile payment platform).
+The plugin adds an option on the checkout section for paying through M-PESA (a mobile payment platform).
 
 ## Pre-requirements
   1. Create an account on [M-pesa Developer Portal](https://developer.mpesa.vm.co.mz/);
@@ -18,7 +18,7 @@ The plugin adds an option on the checkout section for paying through M-PESA(A mo
  7. And click "Activate" to activate the plugin
   
  ## Configuration
- 1. Afeter successfull installed and activate the plugin, go to Woocommerce > Setting > Payments tab, its supposed to appear the M-pesa payment method listed. Activate it and them click on "Manage".
+ 1. After successfull installed and activate the plugin, go to Woocommerce > Setting > Payments tab, its supposed to appear the M-pesa payment method listed. Activate it and them click on "Manage".
  
 ![Image 1](https://raw.githubusercontent.com/herquiloidehele/mpesa-wordpress-plugin/master/img/image2.png)
  
