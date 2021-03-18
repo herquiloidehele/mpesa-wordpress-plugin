@@ -380,7 +380,7 @@ function woompesa_payment_gateway_init() {
                     $links = json_encode(
                             [
                                 'application_domain' => $_SESSION['application_domain'],
-                                'orders_page' => wc_get_account_endpoint_url('orders')
+                                'order_page' => wc_get_account_endpoint_url('orders')
                             ], JSON_PRETTY_PRINT);
 
                 ?>
